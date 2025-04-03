@@ -51,5 +51,5 @@ local Window = Rayfield:CreateWindow({
     Callback = function()
     -- The function that takes place when the button is pressed
     loadstring(game:HttpGet(https://pastebin.com/raw/aw8V6DE1))
-    end,
+    end
  })
